@@ -85,7 +85,7 @@ function Header() {
                         <Link href={"/query"}>Query</Link>
                     </li>
                     <li>
-                        <Link href={"/Analyse"}>Analyse</Link>
+                        <Link href={"/analyse"}>Analyse</Link>
                     </li>
                     <SignedOut>
                        <div> <SignInButton /></div>
